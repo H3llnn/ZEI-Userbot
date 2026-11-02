@@ -28,9 +28,10 @@ Ini belum setara seluruh modul Man-Userbot. Inventaris [MODULES.md](MODULES.md) 
 
 ## Uji
 
-`sh
+````sh
 python -m pip install .
 python -m unittest discover -s tests -v
+```
 `
 
 Uji akun nyata, OTP, 2FA, hak admin grup, dan mode inline masih memerlukan akun/server Telegram milik pemilik. Tes otomatis menggunakan objek Telegram tiruan.
