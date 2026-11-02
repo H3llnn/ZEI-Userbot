@@ -1,0 +1,1 @@
+config.env\n.env*\ndata/\n*.sqlite*\n*.session*\n*.log\n__pycache__/\n*.py[cod]\n.venv/\n*.egg-info/\nbuild/\ndist/\n
