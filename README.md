@@ -1,9 +1,40 @@
-# ZΞI Userbot
+<div align="center">
 
-**ZΞI Project · Maintained by Zeisss**
+![ZEI Userbot — Your account. Your command.](docs/assets/hero.svg)
 
-Userbot pribadi untuk akun Telegram milik pengguna yang diizinkan melalui ZΞI Gate.
-Satu akun per pengguna. Nama dan identitas akun tetap mengikuti akun Telegram pemiliknya.
+### Akunmu. Perintahmu. Cara kerjamu.
+
+Bagian dari ekosistem ZΞI Project
+
+![38 commands](https://img.shields.io/badge/Commands-38-8B5CF6?style=flat-square)
+![Python 3.12+](https://img.shields.io/badge/Python-3.12%2B-22D3EE?style=flat-square&logo=python&logoColor=white)
+[![GPL-3.0](https://img.shields.io/badge/License-GPL--3.0-8B5CF6?style=flat-square)](LICENSE)
+
+[**Hubungkan akun ↓**](#mulai) · [**Daftar fitur ↓**](#fitur) · [**ZEI Gate ↗**](https://github.com/H3llnn/ZEI-Gate)
+
+</div>
+
+---
+
+## Kendali dari akunmu sendiri
+
+**ZΞI Userbot** adalah runtime akun Telegram pribadi untuk pengguna yang mendapat izin melalui Gate. Satu akun per pengguna; nama dan identitas tetap mengikuti akun Telegram pemiliknya.
+
+```text
+.help          Buka bantuan
+.ping          Periksa respons
+.prefix !      Ganti awalan perintah
+```
+
+| | |
+| :--- | :--- |
+| **⚡ 38 perintah** | Catatan, pesan, profil, administrasi grup, utilitas, dan otomatisasi. |
+| **🎛️ Prefix pilihanmu** | Atur awalan dari akun sendiri atau bot induk. |
+| **🔐 Sesi terenkripsi** | OTP dan password 2FA tidak disimpan di database. |
+| **🛡️ Kendali pemilik** | Perintah diterima dari akun pemilik; tindakan admin memerlukan hak Telegram yang sesuai. |
+
+> **Status pengembangan:** 5 tes otomatis Userbot lulus pada pemeriksaan lokal. Login akun dan hak grup pada instalasi terbaru masih perlu diuji langsung. [Status ekosistem](https://github.com/H3llnn/ZEI-Gate/blob/main/docs/STATUS.md).
+
 
 ## Mulai
 
@@ -41,3 +72,13 @@ python -m unittest discover -s tests -v
 
 Daftar di atas merupakan fitur yang tersedia pada versi ini. Login dan hak grup nyata diuji melalui akun pemilik,
 sementara tes otomatis menggunakan objek Telegram tiruan. Detail sumber dan lisensi tersedia di THIRD_PARTY_NOTICES.md dan LICENSE.
+
+---
+
+<div align="center">
+
+**ZΞI PROJECT** · Maintained by **Zeisss**
+
+Built around your Telegram workflow.
+
+</div>
