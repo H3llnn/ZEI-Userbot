@@ -38,7 +38,7 @@ Bagian dari ekosistem ZΞI Project
 
 ## Mulai
 
-Letakkan folder ZEI-Gate dan ZEI-Userbot berdampingan. Jalankan python install.py dari folder Gate.
+Letakkan folder ZEI-Gate, ZEI-ForceSubs, ZEI-Payment, dan ZEI-Userbot berdampingan. Jalankan python install.py dari folder Gate.
 Buka ruang pembuatan melalui bot induk, isi API ID/Hash, lalu hubungkan akun sendiri melalui nomor, OTP dan 2FA bila diperlukan.
 
 Ketik .help dari akunmu untuk membuka bantuan. Gunakan .prefix ! untuk mengganti prefix,
