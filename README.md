@@ -44,6 +44,16 @@ Buka ruang pembuatan melalui bot induk, isi API ID/Hash, lalu hubungkan akun sen
 Ketik .help dari akunmu untuk membuka bantuan. Gunakan .prefix ! untuk mengganti prefix,
 atau buka Pengaturan Prefix melalui bot induk. Prefix dan catatan tetap disimpan saat koneksi ulang.
 
+## Bantuan yang bisa dijelajahi
+
+Ketik `.help` → pilih kategori → pilih perintah. Bot menampilkan fungsi, cara penggunaan, dan contoh sesuai prefix akunmu. Tombol bantuan membutuhkan mode inline pada bot induk; bantuan teks tersedia sebagai cadangan.
+
+| Kebutuhan | Contoh |
+| :--- | :--- |
+| Memeriksa respons akun | `.ping` |
+| Membuka bantuan | `.help` |
+| Mengganti prefix menjadi tanda seru | `.prefix !` lalu `!help` |
+
 ## Fitur
 
 - Kendali akun: help, ping, id, status, prefix.
@@ -62,6 +72,13 @@ PMpermit memberi pemberitahuan tanpa memblokir orang otomatis. AFK dan filter me
 Izin dikelola pemilik bot induk dan berlaku sampai dicabut. Pencabutan menghentikan Userbot;
 setelah izin pulih, pemilik menghubungkan ulang. Sesi tersimpan terenkripsi di server pengelola.
 Jalankan hanya di server yang kamu percaya. OTP dan password 2FA tidak disimpan dalam database.
+
+## Panduan lanjutan
+
+- [Pemasangan dan Mini App melalui Gate](https://github.com/H3llnn/ZEI-Gate#jalankan-di-laptop)
+- [Pertanyaan umum](https://github.com/H3llnn/ZEI-Gate/blob/main/docs/FAQ.md)
+- [Update dan cadangan](https://github.com/H3llnn/ZEI-Gate/blob/main/docs/UPDATE-GUIDE.md)
+- [Pembaruan bantuan dan izin](https://github.com/H3llnn/ZEI-Gate/blob/main/docs/UPDATE-2026-11-03.md)
 
 ## Pengujian
 
